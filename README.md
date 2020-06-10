@@ -2,7 +2,7 @@
 
 ## Link:- https://schedulemgmt.herokuapp.com/
 
-This is a Calendar Schedule Management API Users
+This is a Calendar Schedule Management API for Users
 
 Following are the features provided:
 1. Users can register themselves with a unique username and emailId along with strong password.
