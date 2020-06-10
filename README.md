@@ -153,6 +153,22 @@ Event Detail not found
 
 ```
 
+>7. LOGIN: 
+```
+https://schedulemgmt.herokuapp.com/login
+{
+    "username":
+    "password":
+}
+
+```
+
+>8. LOGOUT:
+
+```
+https://schedulemgmt.herokuapp.com/logout
+
+```
   
 Since session athentication has been implemented you need to provide login details every time you access events using command prompt
 
